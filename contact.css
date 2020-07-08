@@ -4,11 +4,13 @@ body {
   background-size: cover;
 }
   .container {
-     padding: 100px 50px;
+     padding: 100px 100px;
+     font-family: 'Bangers', cursive;
   }
   .row {
     padding: 10px 0;
   }
+
   h1 {
     color:white;
     font-family: 'Bangers', cursive;
@@ -17,12 +19,4 @@ body {
     text-align: center;
     color: white
   }
-  div {
-    border: solid 1px;
-    min-height: 50px;
-
-}
-.row {
-    border: solid white;
-    font-family: 'Bangers', cursive;
-}
+  

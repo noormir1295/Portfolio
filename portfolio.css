@@ -4,7 +4,8 @@ div {
 
 }
 .row {
-    border: solid red
+    border: solid red;
+    padding: 20px 0;
 }
 
 body {
@@ -29,4 +30,7 @@ h1 {
       color: white;
       font-family:'Bangers', cursive ;
       font-size: 20px;
+  }
+  .container {
+      padding-top: 100px;
   }
