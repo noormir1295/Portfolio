@@ -1,0 +1,32 @@
+div {
+    border: solid 1px;
+    min-height: 50px;
+
+}
+.row {
+    border: solid red
+}
+
+body {
+    background-image: url(assets/background-cover.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+footer {
+    color: white;
+    text-align: center;
+}
+h1 {
+    color:white;
+    font-family: 'Bangers', cursive;
+  }
+  .card-img-top {
+      width: 100%;
+      height: auto;
+  }
+  .card-body {
+      background-color: #208951;
+      color: white;
+      font-family:'Bangers', cursive ;
+      font-size: 20px;
+  }

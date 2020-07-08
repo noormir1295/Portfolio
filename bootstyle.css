@@ -1,0 +1,30 @@
+body {
+    background-image: url(assets/background-cover.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    color:white;
+    font-family: 'Bangers', cursive;
+}
+
+p {
+    color: white;
+    padding: 20px;
+    margin: 0 10px;
+}
+div {
+    border: solid 1px;
+    min-height: 50px;
+
+}
+.row {
+    border: solid white
+}
+
+footer {
+    color: white;
+    text-align: center;
+    margin-top: 400px 
+}
