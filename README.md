@@ -2,7 +2,7 @@
 This is my portfolio
 
 # About Me
-* I created my about me starting with the nav bar I took from bootstrap. I edited some styles on the nav with my own css that is linked within the html. 
+* Created my About Me starting with the nav bar I took from bootstrap. I edited some styles on the nav with my own css that is linked within the html. 
 * I created the about me page with a grid system that contains the header, a picture of myself, and a short paragraph about me. This grid system is made responsice so that it can be used in m
 mulitple formats.
 Footer was added into grid system as well.
@@ -16,5 +16,4 @@ Footer was added into grid system as well.
 * I also added a submit input within the form and the grid system.
 
 # Assets
-* Assets contain images I used for this project and screenshots of the responsive web pages. 
-
+* Assets contain images I used for this project
