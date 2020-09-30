@@ -4,7 +4,7 @@
 }
 
 body {
-    background-image: url(assets/background-cover.jpg);
+    background-image: url(assets/keyboard-background.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -14,16 +14,16 @@ footer {
 }
 h1 {
     color:white;
-    font-family: 'Bangers', cursive;
+    
   }
   .card-img-top {
       width: 100%;
       height: auto;
   }
   .card-body {
-      background-color: #208951;
+      background-color: gray;
       color: white;
-      font-family:'Bangers', cursive ;
+       ;
       font-size: 20px;
   }
   .container {
